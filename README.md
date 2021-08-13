@@ -1,6 +1,6 @@
 # python_opencv_inpaint
 
-Bu projede cilt kanseri görüntüleri üzerindeki gürültü olarak nitelendirilen kıllar, opencv inpaint metodu ile temizlenmiştir
+Bu projede cilt kanseri görüntüleri üzerindeki gürültü olarak nitelendirilen kıllar, opencv inpaint metodu ile temizlenmistir
 
 Inpaint  metodunda kullanacagım maskeyi  elde etmek için kendi yazdığım local threshold algoritmasını kullandım. Gerekli morfolojik işlemleri yaptıktan sonra inpaint metodunu kullandım.
 
